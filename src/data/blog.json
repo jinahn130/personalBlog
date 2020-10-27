@@ -1,0 +1,56 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "Working Out During Quarantine",
+            "slug": "workout",
+            "postedOn": "October 26, 2020",
+            "author": "Jin Seong Ahn",
+            "blogImage": "workout.jpg",
+            "blogText": "Since the beginning of the quarantine, I struggled to find places to work out. As gyms started opening up around me, I was tempted to go, but I have a family member with a weak immune system. As a college student, I spend a lot of my day on my chair, whether I am studying, playing games, playing guitar, or watching TV. I was starting to get back pain for sitting too long, but I still did not feel motivated to exercise because I had no equipments. However, when I moved into a house with 9 of my close friends in Seattle this September, we invested our money into setting up a small gym in the back of our house. We do not have that many weights or benches, but we have just enough equipments to workout our chest, shoulder, legs, and abs. With all the equipments set up and my friends encouraging me to workout, I have been working out 5 days a week. This is a significant progress from the beginning of the quarantine. I believe that working out is great for the body and the mind because I wake up feeling stronger and more well-rested. I wish that even when I did not have any equipments, I worked out more because I feel much healthier."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Friends",
+            "blogTitle": "Hanging out on the roof",
+            "slug": "hangout",
+            "postedOn": "July 01, 2020",
+            "author": "Jin Seong Ahn",
+            "blogImage": "friends.jpg",
+            "blogText": "When I first came to UW, I did not make initiatives to talk to people in my classes. I wanted to find a close group of friends at school but many clubs and organizations at UW were too large. I found it difficult to connect with people on personal level during club hosted events. Friends that I made in classes were fun, but I felt that we spent most of our time studying together. When I joined the Lambda Phi Epsilon at UW, however, I found a group of people that I get along with. As a group, we play games together, workout, study, and go on hiking. I am glad that I got to meet some people throughout my experience at UW."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Social",
+            "blogTitle": "Dancing Night With Sophia",
+            "slug": "dance",
+            "postedOn": "January 02, 2020",
+            "author": "Jin Seong Ahn",
+            "blogImage": "dance.jpg",
+            "blogText": "University of Washington has cultural clubs called Vietnamese Student Association (VSA), Korean Student Association (KSA), and Chinese Student Association (CSA). People from the three student organizations partnered up to host a club night. If you are concerned, no alcohol was allowed as many people were under 21. Sophia was my date to the dance and we made a lot of great memories."
+
+        },
+        {
+            "id": 5,
+            "blogCategory": "Food",
+            "blogTitle": "Surviving With Cheap But Healthy Food In College",
+            "slug": "food",
+            "postedOn": "December 19, 2019",
+            "author": "Jin Seong Ahn",
+            "blogImage": "food.jpg",
+            "blogText": "My favorite food is Bibimbop, a popular Korean dish often served with beef, bean sprouts, spinach, bracken, radish, pan fried eggs, and red pepper sauce. Bibimbop uses ingredients that are cheap but the mix of vegetables are healthy and filling. Throughout my freshmen year of college, I spent a lot of money buying unhealthy food outside. Not only was this bad for my health, but grim for my finance. The bowl of bibimbop in the picture costs about 3 dollars. I would rather eat bibimbop than Mcdonalds chicken sandwhich that costs the same."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Music",
+            "blogTitle": "UW Night Market Guitar Solo Performance",
+            "slug": "guitar",
+            "postedOn": "Apr 02, 2018",
+            "author": "Jin Seong Ahn",
+            "blogImage": "guitar.jpg",
+            "blogText": "I started playing guitar in 7th grade because I saw a video of Justin King playing a song called Phunkdified. This song requires an array of techniques to produce beat along with harmony. When I first started, the techniques were too difficult that I was doubtful if I would even be able to play one day. However, after five years of practice, I achieved my goal of performing the song at a stage. Playing guitar is currently my favorite hobby. "
+ 
+        }
+    ]
+}
